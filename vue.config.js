@@ -24,4 +24,5 @@ module.exports = defineConfig({
       }),
     ],
   },
+  publicPath:'/waimai/'
 })
